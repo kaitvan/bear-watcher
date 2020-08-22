@@ -1,3 +1,5 @@
+import { addBearCard } from './river.js';
+
 let bears = [];
 
 const addBearForm = () => {
@@ -30,8 +32,7 @@ const addBearInfo = () => {
       bearImage: bearImage,
       bearName: bearName
     })
-
-    console.log(bears);
+    addBearCard(bears);
     clearForm();
   })
   
