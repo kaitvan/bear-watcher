@@ -1,3 +1,3 @@
-const addBearCard = () => {
+// const addBearCard = () => {
     
-}
+// }
