@@ -13,7 +13,7 @@ const addBearForm = () => {
     <label for="bear-name">Bear Name:</label>
     <input type="text" class="form-control" id="bear-name" placeholder="Choose a name for your bear.">
   </div>
-  <button type="button" id="submit-button" class="btn btn-primary">Submit</button>
+  <button type="button" id="submit-button" class="btn btn-primary mt-3">Submit</button>
 </form>`)
 };
 
